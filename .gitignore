@@ -1,0 +1,15 @@
+/.gradle/
+/build/
+.classpath
+.eclipse/
+.gitignore
+.project
+.settings/
+bin/
+run/
+runClient.launch
+runData.launch
+runGameTestServer.launch
+runServer.launch
+LICENSE.txt
+.DS_Store
