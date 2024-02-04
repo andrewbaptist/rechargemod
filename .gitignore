@@ -5,6 +5,7 @@
 .gitignore
 .project
 .settings/
+mcmodsrepo/
 bin/
 run/
 runClient.launch
