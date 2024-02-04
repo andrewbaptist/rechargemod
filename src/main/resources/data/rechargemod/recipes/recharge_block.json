@@ -1,0 +1,20 @@
+{
+  "group": "rechargemod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xdx",
+    "dxd",
+    "xdx"
+  ],
+  "key": {
+    "x": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "d": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "item": "rechargemod:recharge_block"
+  }
+}
